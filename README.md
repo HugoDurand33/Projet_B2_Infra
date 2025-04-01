@@ -15,3 +15,12 @@ Mise en place d'une infrastructure réseau d'entreprise avec :
 - accès a internet 
 
 - site web de l'entreprise
+
+- gestions des vlan
+
+### Maquette attendue
+    • Schéma réseau
+    • Plan d’adressage
+    • VM routeur
+    • Maquette Packet-Tracer (ou autre)
+    • Démo : traçage de paquets avec routage/filtrage fonctionnel
