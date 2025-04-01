@@ -1,8 +1,8 @@
 # Projet_B2_Infra
 
-## PROJET : Architecture réseau et sécurité 
+## Groupe : Durand Hugo, Chamand Hugo
 
-### Groupe : Durand Hugo, Chamand Hugo
+### PROJET : Architecture réseau et sécurité 
 
 Mise en place d'une infrastructure réseau d'entreprise avec :
 
