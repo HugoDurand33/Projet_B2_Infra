@@ -6,7 +6,7 @@
 
 Mise en place d'une infrastructure réseau d'entreprise avec :
 
-- VLAN / DHCP / DNS / LACP / ACP / HSRP
+- VLAN / DHCP / DNS / LACP / ACP / HSRP / OSPF
 
 - Redondance réseau
 
